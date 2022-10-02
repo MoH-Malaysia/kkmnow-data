@@ -22,4 +22,4 @@ jobs:
       with:
         url: 'https://staging.kkmnow.app/kkmnow/'
         method: 'POST'
-        customHeaders: '{"Authorization": "${{ secrets.WORKFLOW_TOKEN }}"}
+        customHeaders: '{"Authorization": "${{ secrets.WORKFLOW_TOKEN }}"}'
