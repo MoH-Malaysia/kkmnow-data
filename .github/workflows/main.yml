@@ -17,10 +17,17 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-    - name: POST call
+    - name: POST call Staging
       uses: fjogeleit/http-request-action@v1
       with:
         url: 'https://staging.kkmnow.app/kkmnow/'
+        method: 'POST'
+        customHeaders: '{"Authorization": "${{ secrets.WORKFLOW_TOKEN }}"}'
+        timeout: 45000
+    - name: POST call Prod
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: 'https://kkmnow.app/kkmnow/'
         method: 'POST'
         customHeaders: '{"Authorization": "${{ secrets.WORKFLOW_TOKEN }}"}'
         timeout: 45000
