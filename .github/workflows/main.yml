@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Data update
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+    - name: POST call
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: 'https://staging.kkmnow.app/kkmnow/'
+        method: 'POST'
+        customHeaders: '{"Authorization": "${{ secrets.WORKFLOW_TOKEN }}"}
