@@ -1,4 +1,4 @@
-# kkmnow-front
+# kkmnow-data
 
 This is the data repo for KKMNOW. Note that this contains highly processed data intended for use by [`kkmnow-back`](https://github.com/MoH-Malaysia/kkmnow-back) rather than for members of the public to download and play with. Consequently, although this repo is open, we do not accept contributions (but are happy to fix any issues). 
 
