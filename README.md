@@ -16,6 +16,9 @@ git clone git@github.com:moh-malaysia/kkmnow-data.git
 
 ## Open Data repos maintained by MoH Malaysia
 - [COVID-19](https://github.com/MoH-Malaysia/covid19-public/)
+- [Blood donation](https://github.com/MoH-Malaysia/data-darah-public)
+- [Organ donation](https://github.com/MoH-Malaysia/data-organ-public)
+- [PeKa B40 screening](https://github.com/MoH-Malaysia/data-peka40-public)
 
 ## Larger datasets made available via Google Cloud
 - [Anonymised individual-level COVID-19 cases](https://storage.googleapis.com/moh-malaysia-covid19/linelist_cases.parquet)
