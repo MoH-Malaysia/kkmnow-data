@@ -6,6 +6,12 @@ Note that you do not need to clone the repo locally in order to serve your API -
 
 ---
 
+## Why do we use parquet files?
+
+For two reasons. First, Parquet files are compressed to a much smaller size (usually ~10x smaller than the corresponding CSV for our datasets), making them faster to read and cheaper to store. Second, Parquet files have an embedded schema, which means that the data types are clearly defined.
+
+We **do not** intend for these files to be what the community at large leverages on (although you may if you wish). They only contain precisely what is needed for the site's API. If you want to work with the full datasets in (for example) CSV format in Excel, you should go to one of the open-data repos below and take the files you need - they are all maintained with the complete datasets underlying what is displayed on the site.
+
 ## Download to work locally
 
 In a git-supported terminal:
