@@ -20,7 +20,7 @@ In a git-supported terminal:
 git clone git@github.com:moh-malaysia/kkmnow-data.git
 ```
 
-## Open Data repos maintained by MoH Malaysia
+## Open Data repos
 - [COVID-19](https://github.com/MoH-Malaysia/covid19-public/)
 - [Blood donation](https://github.com/MoH-Malaysia/data-darah-public)
 - [Organ donation](https://github.com/MoH-Malaysia/data-organ-public)
