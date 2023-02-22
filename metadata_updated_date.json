@@ -17,17 +17,17 @@
         "choropleth_malaysia": "2023-02-21 23:59"
     },
     "covid_epid": {
-        "bar_chart": "2023-02-21 23:59",
-        "snapshot_bar": "2023-02-21 23:59",
-        "snapshot_graphic": "2023-02-21 23:59",
-        "snapshot_table": "2023-02-21 23:59",
-        "timeseries_admitted": "2023-02-21 23:59",
-        "timeseries_cases": "2023-02-21 23:59",
-        "timeseries_deaths": "2023-02-21 23:59",
-        "timeseries_icu": "2023-02-21 23:59",
-        "timeseries_tests": "2023-02-21 23:59",
-        "timeseries_vents": "2023-02-21 23:59",
-        "util_chart": "2023-02-21 23:59"
+        "bar_chart": "2023-02-22 23:59",
+        "snapshot_bar": "2023-02-22 23:59",
+        "snapshot_graphic": "2023-02-22 23:59",
+        "snapshot_table": "2023-02-22 23:59",
+        "timeseries_admitted": "2023-02-22 23:59",
+        "timeseries_cases": "2023-02-22 23:59",
+        "timeseries_deaths": "2023-02-22 23:59",
+        "timeseries_icu": "2023-02-22 23:59",
+        "timeseries_tests": "2023-02-22 23:59",
+        "timeseries_vents": "2023-02-22 23:59",
+        "util_chart": "2023-02-22 23:59"
     },
     "covid_now": {
         "bar_chart": "2022-09-09 23:59",
