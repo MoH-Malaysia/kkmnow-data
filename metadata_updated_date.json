@@ -1,20 +1,20 @@
 {
     "bed_util": {
-        "table_state": "2023-10-21 23:59",
-        "timeseries_facility": "2023-10-21 23:59"
+        "table_state": "2023-11-01 23:59",
+        "timeseries_facility": "2023-11-01 23:59"
     },
     "blood_donation": {
-        "bar_chart_age": "2023-10-21 23:59",
-        "bar_chart_time": "2023-10-21 23:59",
-        "heatmap_bloodstock": "2023-10-21 23:59",
-        "heatmap_donorrate": "2023-10-21 23:59",
-        "heatmap_retention": "2023-10-21 23:59",
-        "timeseries_all": "2023-10-21 23:59",
-        "timeseries_bloodstock": "2023-10-21 23:59",
-        "timeseries_facility": "2023-10-21 23:59",
-        "map_facility": "2023-10-21 23:59",
-        "barchart_key_variables": "2023-10-21 23:59",
-        "choropleth_malaysia": "2023-10-21 23:59"
+        "bar_chart_age": "2023-11-01 23:59",
+        "bar_chart_time": "2023-11-01 23:59",
+        "heatmap_bloodstock": "2023-11-01 23:59",
+        "heatmap_donorrate": "2023-11-01 23:59",
+        "heatmap_retention": "2023-11-01 23:59",
+        "timeseries_all": "2023-11-01 23:59",
+        "timeseries_bloodstock": "2023-11-01 23:59",
+        "timeseries_facility": "2023-11-01 23:59",
+        "map_facility": "2023-11-01 23:59",
+        "barchart_key_variables": "2023-11-01 23:59",
+        "choropleth_malaysia": "2023-11-01 23:59"
     },
     "covid_epid": {
         "bar_chart": "2023-10-21 23:59",
@@ -37,10 +37,10 @@
         "timeseries": "2022-09-09 23:59"
     },
     "covid_vax": {
-        "bar_chart": "2023-10-21 23:59",
-        "snapshot": "2023-10-21 23:59",
-        "timeseries": "2023-10-21 23:59",
-        "waffle": "2023-10-21 23:59"
+        "bar_chart": "2023-10-31 23:59",
+        "snapshot": "2023-10-31 23:59",
+        "timeseries": "2023-10-31 23:59",
+        "waffle": "2023-10-31 23:59"
     },
     "facilities": {
         "distances_between": "2022-10-16 23:59",
@@ -48,17 +48,17 @@
         "locations": "2022-10-16 23:59"
     },
     "organ_donation": {
-        "barchart_age": "2023-10-21 23:59",
-        "barchart_reasons": "2023-10-21 23:59",
-        "barchart_time": "2023-10-21 23:59",
-        "heatmap_pledgerrate": "2023-10-21 23:59",
-        "timeseries": "2023-10-21 23:59",
-        "choropleth_malaysia": "2023-10-21 23:59"
+        "barchart_age": "2023-10-31 23:59",
+        "barchart_reasons": "2023-10-31 23:59",
+        "barchart_time": "2023-10-31 23:59",
+        "heatmap_pledgerrate": "2023-10-31 23:59",
+        "timeseries": "2023-10-31 23:59",
+        "choropleth_malaysia": "2023-10-31 23:59"
     },
     "peka_b40": {
-        "barchart_ages": "2023-10-21 23:59",
-        "heatmap_screenrate": "2023-10-21 23:59",
-        "timeseries": "2023-10-21 23:59",
-        "choropleth_malaysia": "2023-10-21 23:59"
+        "barchart_ages": "2023-11-01 23:59",
+        "heatmap_screenrate": "2023-11-01 23:59",
+        "timeseries": "2023-11-01 23:59",
+        "choropleth_malaysia": "2023-11-01 23:59"
     }
 }
