@@ -37,10 +37,10 @@
         "timeseries": "2022-09-09 23:59"
     },
     "covid_vax": {
-        "bar_chart": "2025-04-21 23:59",
-        "snapshot": "2025-04-21 23:59",
-        "timeseries": "2025-04-21 23:59",
-        "waffle": "2025-04-21 23:59"
+        "bar_chart": "2025-04-22 23:59",
+        "snapshot": "2025-04-22 23:59",
+        "timeseries": "2025-04-22 23:59",
+        "waffle": "2025-04-22 23:59"
     },
     "facilities": {
         "distances_between": "2022-10-16 23:59",
