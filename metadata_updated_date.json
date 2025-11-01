@@ -4,17 +4,17 @@
         "timeseries_facility": "2024-09-06 23:59"
     },
     "blood_donation": {
-        "bar_chart_age": "2025-10-30 23:59",
-        "bar_chart_time": "2025-10-30 23:59",
-        "heatmap_bloodstock": "2025-10-30 23:59",
-        "heatmap_donorrate": "2025-10-30 23:59",
-        "heatmap_retention": "2025-10-30 23:59",
-        "timeseries_all": "2025-10-30 23:59",
-        "timeseries_bloodstock": "2025-10-30 23:59",
-        "timeseries_facility": "2025-10-30 23:59",
-        "map_facility": "2025-10-30 23:59",
-        "barchart_key_variables": "2025-10-30 23:59",
-        "choropleth_malaysia": "2025-10-30 23:59"
+        "bar_chart_age": "2025-10-31 23:59",
+        "bar_chart_time": "2025-10-31 23:59",
+        "heatmap_bloodstock": "2025-10-31 23:59",
+        "heatmap_donorrate": "2025-10-31 23:59",
+        "heatmap_retention": "2025-10-31 23:59",
+        "timeseries_all": "2025-10-31 23:59",
+        "timeseries_bloodstock": "2025-10-31 23:59",
+        "timeseries_facility": "2025-10-31 23:59",
+        "map_facility": "2025-10-31 23:59",
+        "barchart_key_variables": "2025-10-31 23:59",
+        "choropleth_malaysia": "2025-10-31 23:59"
     },
     "covid_epid": {
         "bar_chart": "2024-06-01 23:59",
