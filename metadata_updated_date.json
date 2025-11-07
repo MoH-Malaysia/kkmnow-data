@@ -48,12 +48,12 @@
         "locations": "2022-10-16 23:59"
     },
     "organ_donation": {
-        "barchart_age": "2025-11-06 23:59",
-        "barchart_reasons": "2025-11-06 23:59",
-        "barchart_time": "2025-11-06 23:59",
-        "heatmap_pledgerrate": "2025-11-06 23:59",
-        "timeseries": "2025-11-06 23:59",
-        "choropleth_malaysia": "2025-11-06 23:59"
+        "barchart_age": "2025-11-07 23:59",
+        "barchart_reasons": "2025-11-07 23:59",
+        "barchart_time": "2025-11-07 23:59",
+        "heatmap_pledgerrate": "2025-11-07 23:59",
+        "timeseries": "2025-11-07 23:59",
+        "choropleth_malaysia": "2025-11-07 23:59"
     },
     "peka_b40": {
         "barchart_ages": "2025-11-06 23:59",
