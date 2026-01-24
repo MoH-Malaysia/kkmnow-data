@@ -56,9 +56,9 @@
         "choropleth_malaysia": "2026-01-23 23:59"
     },
     "peka_b40": {
-        "barchart_ages": "2026-01-22 23:59",
-        "heatmap_screenrate": "2026-01-22 23:59",
-        "timeseries": "2026-01-22 23:59",
-        "choropleth_malaysia": "2026-01-22 23:59"
+        "barchart_ages": "2026-01-23 23:59",
+        "heatmap_screenrate": "2026-01-23 23:59",
+        "timeseries": "2026-01-23 23:59",
+        "choropleth_malaysia": "2026-01-23 23:59"
     }
 }
